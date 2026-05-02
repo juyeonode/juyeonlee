@@ -11,7 +11,7 @@
 
 ### 💻 Technical Proficiency
 
-*   **Languages:** Python, C++, Java, SQL
+*   **Languages:** Python, Apache Spark, C++, Java, SQL
 *   **Frameworks:** Flask, FastAPI, PyTorch, Scikit-learn 
 *   **Tools:** Git, Docker, VS Code, Linux, PostgreSQL, Postman
 *   **Frontend**: HTML5, CSS3
